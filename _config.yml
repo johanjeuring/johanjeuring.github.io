@@ -83,8 +83,8 @@ author:
   name             : 
   avatar           : "profile.png"
   bio              : 
-  location         : "BBG 5.71"
-  employer         : "https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences/contact"
+  location         : "<a href="https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences/contact">BBG</a> 5.71"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=weRJxNwAAAAJ"
   email            :
