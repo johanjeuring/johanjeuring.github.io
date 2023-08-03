@@ -12,7 +12,7 @@ Professor of [Software Technology for Learning and Teaching](https://www.uu.nl/e
 
 Besides my academic affiliations, I am Chief Scientific Officer of [DialogueTrainer](https://www.dialoguetrainer.com), and chairman of Stichting Stilt. 
 
-I initiate and lead research, education, innovation, and change in technology for education.
+I initiate and lead research, education, innovation and change in technology for education.
 
 I will be on sabbatical in the academic year 2023-2024.
 
