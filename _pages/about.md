@@ -14,5 +14,5 @@ Besides my academic affiliations, I am Chief Scientific Officer of [DialogueTrai
 
 I initiate and lead research, education, innovation, and change in technology for education.
 
-I will be on sabbatical in the academich year 2023-2024.
+I will be on sabbatical in the academic year 2023-2024.
 
