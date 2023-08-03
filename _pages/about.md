@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Johan Jeuring academic personal website"
+title: "Johan Jeuring"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
