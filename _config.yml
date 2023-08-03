@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Johan Jeuring"
+  name             : 
   avatar           : "profile.png"
-  bio              : "Professor"
-  location         : "Location"
-  employer         : "Utrecht University"
+  bio              : 
+  location         : "BBG 5.71"
+  employer         : "https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences/contact"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=weRJxNwAAAAJ"
   email            :
