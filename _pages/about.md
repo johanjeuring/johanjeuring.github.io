@@ -13,11 +13,11 @@ Professor of [Software Technology for Learning and Teaching](https://www.uu.nl/e
 Besides my academic affiliations, I am Chief Scientific Officer of [DialogueTrainer](https://www.dialoguetrainer.com), and chairman of Stichting Stilt. 
 
 I initiate and lead research, education, innovation and change in technology for education. My main research interests are: 
-* Computing education (learning to program)
-* Automatic Feedback and Hints (for exercises in Algebra, Logic, Programming, Statistics, etc)
-* AI in Education (for determining progress of students)
+* Computing education 
+* Automatic Feedback and Hints
+* AI in Education
 * Intelligent Tutoring Systems 
-* Serious games (for practicing communication skills)
+* Serious games
 
 I will be on sabbatical in the academic year 2023-2024.
 
