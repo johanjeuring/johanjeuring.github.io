@@ -19,5 +19,4 @@ I initiate and lead research, education, innovation and change in technology for
 * Intelligent Tutoring Systems 
 * Serious games
 
-I will be partly on sabbatical in the academic year 2024-2025.
 
