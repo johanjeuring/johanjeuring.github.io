@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/languagesandcompilers
 venue: "Utrecht University, Department of Information and Computing Sciences"
-date: 2017-01-01
+date: 2026-11-17
 location: "Utrecht, The Netherlands"
 ---
 
