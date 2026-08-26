@@ -2,7 +2,7 @@
 title: "National policy for generative AI in education"
 collection: talks
 type: "Keynote"
-permalink: /talks/OCW
+permalink: /talks/talk-1
 venue: "Meeting with foreign contact points of the ministry of education"
 date: 2023-06-03
 location: "The Hague, The Netherlands"
