@@ -8,4 +8,4 @@ date: 2026-11-17
 location: "Utrecht, The Netherlands"
 ---
 
-I used to teach the course Languages and Compilers in the Utrecht University Computer Science bachelor program. I will teach it again this academic year.
+I teach the course Languages and Compilers in the Utrecht University Computer Science bachelor program. 
