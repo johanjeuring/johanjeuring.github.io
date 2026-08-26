@@ -2,7 +2,7 @@
 title: "Automatic feedback and hints on steps students take when learning how to program"
 collection: talks
 type: "Keynote"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/talk-3
 venue: "DELFI/HDI meeting"
 date: 2023-09-13
 location: "Aachen, Germany"
