@@ -2,7 +2,7 @@
 title: "LLMs in programming education"
 collection: talks
 type: "Workshop"
-permalink: /talks/2012-03-01-talk-2
+permalink: /talks/talk-2
 venue: "I&I conference"
 date: 2023-11-09
 location: "Utrecht, The Netherlands"
