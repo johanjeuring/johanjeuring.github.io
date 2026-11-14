@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Palindromes"
-    url: /palindromes/
-
   - title: "Student supervision"
     url: /students/
-        
+  
+  - title: "Palindromes"
+    url: /palindromes/
+      
  # - title: "Guide"
  #   url: /markdown/
