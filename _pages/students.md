@@ -14,6 +14,7 @@ Before you send me a request, please check the following:
 * I do not supervise MSc students from other universities.
 * Our department doesn't offer internships, and doesn't participate in Erasmus exchange programs.
 * If we have funding for a PhD student, the vacancy will be announced on the university's [vacancies website](uu.nl/vacancies). 
+
 I'm afraid I cannot answer all requests I get about supervision possibilities. 
 
 You can contact me if you want to do a PhD on a topic that is close to my research, and have acquired sufficient funding for doing a PhD.
