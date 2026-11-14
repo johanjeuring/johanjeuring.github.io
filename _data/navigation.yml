@@ -11,6 +11,9 @@ main:
 
   - title: "Palindromes"
     url: /palindromes/
+
+  - title: "Student supervision"
+    url: /students/
         
  # - title: "Guide"
  #   url: /markdown/
